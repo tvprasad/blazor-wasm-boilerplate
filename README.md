@@ -7,19 +7,19 @@
 </p>
 
 # Blazor WebAssembly Boilerplate 
-Built with .NET 6.0 and the goodness of MudBlazor Component Library. Incorporates the most essential Packages your projects will ever need. Follows Clean Architecture Principles.
+Built with .NET 7.0 and the goodness of MudBlazor Component Library. Incorporates the most essential Packages your projects will ever need. Follows Clean Architecture Principles.
 
 ## Goals
 
 The goal of this repository is to help developers / companies kickstart their Web Application Development with a pre-built Blazor WebAssembly Boilerplate that includes several much needed components and features.
 
 > Note that this is a frontend / client application only! The backend for this application is available in a seperate repository. 
-> - Find fullstackhero's .NET 6 Web API Boilerplate here - https://github.com/fullstackhero/dotnet-webapi-boilerplate
+> - Find fullstackhero's .NET 7 Web API Boilerplate here - https://github.com/fullstackhero/dotnet-webapi-boilerplate
 
 ## Prerequisites
 
 - Make sure you have the API Running. Here is FSH Backend - https://github.com/fullstackhero/dotnet-webapi-boilerplate
-- Once fullstackhero's .NET 6 Web API is up and running, run the Blazor WebAssembly Project to consume it's services.
+- Once fullstackhero's .NET 7 Web API is up and running, run the Blazor WebAssembly Project to consume it's services.
 
 ## Getting Started
 
